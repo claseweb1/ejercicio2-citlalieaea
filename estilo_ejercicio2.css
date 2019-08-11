@@ -1,0 +1,25 @@
+body{
+	color: white;
+	background-color: black;
+	font-family: 'Share Tech Mono', monospace;
+}
+
+.title{
+	color: darkviolet;
+}
+
+.subtitle{
+	color: red;
+}
+
+.image{
+	border-radius: 100%;
+	display: block;
+	margin: auto;
+}
+
+.box{
+	border: darkochid 2px solid;
+	border-radius: 20px;
+	padding: 10px 
+}
